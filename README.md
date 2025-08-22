@@ -8,26 +8,15 @@ Welcome! This page curates practical resources to help you plan, write, and subm
 <h2>Start Here: Popular Guides</h2>
 <ul>
   <li><a href="https://ignouproject.net/?utm_source=github&utm_medium=referral&utm_campaign=readme_hub" target="_blank">IGNOU Project Hub (Start Here)</a></li>
-  <li><a href="https://ignouproject.net/ignou-solved-project/?utm_source=github&utm_medium=referral&utm_campaign=readme_hub" target="_blank">IGNOU Solved Project (Step-by-Step Help)</a></li>
-  <li><a href="https://ignouproject.net/ignou-project-report/?utm_source=github&utm_medium=referral&utm_campaign=readme_hub" target="_blank">IGNOU Project Report Format (Latest Structure)</a></li>
-  <li><a href="https://ignouproject.net/ignou-project-submission/?utm_source=github&utm_medium=referral&utm_campaign=readme_hub" target="_blank">IGNOU Project Submission (Process & Deadlines)</a></li>
+ </li>
 </ul>
 
 <h2>By Programme</h2>
 <ul>
   <li><a href="https://ignouproject.net/ignou-mcom-project/?utm_source=github&utm_medium=referral&utm_campaign=readme_hub" target="_blank">IGNOU MCOM Project: Topics & Samples</a></li>
   <li><a href="https://ignouproject.net/ignou-mba-project/?utm_source=github&utm_medium=referral&utm_campaign=readme_hub" target="_blank">IGNOU MBA Project: Guide & Template</a></li>
-  <li><a href="https://ignouproject.net/ignou-mapc-project/?utm_source=github&utm_medium=referral&utm_campaign=readme_hub" target="_blank">IGNOU MAPC Project (Psychology) Resources</a></li>
-  <li><a href="https://ignouproject.net/ignou-bca-project/?utm_source=github&utm_medium=referral&utm_campaign=readme_hub" target="_blank">IGNOU BCA Project: Ideas & Code Tips</a></li>
-</ul>
+ </ul>
 
-<h2>Tools & Templates</h2>
-<ul>
-  <li><a href="https://ignouproject.net/ignou-synopsis-sample/?utm_source=github&utm_medium=referral&utm_campaign=readme_hub" target="_blank">IGNOU Synopsis Sample (Downloadable)</a></li>
-  <li><a href="https://ignouproject.net/ignou-project-format/?utm_source=github&utm_medium=referral&utm_campaign=readme_hub" target="_blank">IGNOU Project Format (Updated)</a></li>
-  <li><a href="https://ignouproject.net/ignou-solved-assignment/?utm_source=github&utm_medium=referral&utm_campaign=readme_hub" target="_blank">IGNOU Solved Assignment (Guide)</a></li>
-  <li><a href="https://ignouproject.net/ignou-handwritten-project/?utm_source=github&utm_medium=referral&utm_campaign=readme_hub" target="_blank">Handwritten Project Tips (Do’s & Don’ts)</a></li>
-</ul>
 
 <h2>Checklists</h2>
 <ol>
